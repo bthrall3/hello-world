@@ -1,3 +1,4 @@
 # hello-world
-First github repository
-Need to get good at this!
+My first github repository
+
+I need to get good at this!
